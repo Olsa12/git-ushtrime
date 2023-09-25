@@ -1,2 +1,1 @@
-
-console.log("firstApp text1")
+console.log("firstApp text22")
